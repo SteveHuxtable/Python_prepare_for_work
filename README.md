@@ -1,1 +1,1 @@
-# Python_prepare_for_work
+# Start to review python and learn necessary skills for the future work
